@@ -44,7 +44,5 @@ namespace PrismDemo.Module
             //指定ViewModel,添加别名
             //containerRegistry.RegisterForNavigation<NavigationView, NavigationViewModel>("Navigation");
         }
-
-
     }
 }
